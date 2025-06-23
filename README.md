@@ -1,5 +1,22 @@
+# CTF Write-Ups
 
-Each challenge folder contains one or more Markdown files with the following:
+Welcome to my collection of Capture The Flag (CTF) challenge write-ups.  
+These documents represent my learning process, techniques, and solutions from various CTF exercises—primarily solved individually, with a few team-based challenges included.
+
+The goal of this repo is to solidify my understanding of core cybersecurity concepts and provide a resource for others exploring offensive security topics.
+
+---
+
+## 🗂 Current Categories (grouped by challenge type)
+- Cryptography
+- Forensics
+- Web Security
+- OSINT
+- Malware & Reverse Engineering
+- Networking
+- Recon
+
+## Each challenge folder contains one or more Markdown files with the following:
 - Challenge name
 - Description and objectives
 - Step-by-step solution
